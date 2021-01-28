@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection和Map/Collection和Map.iml" filepath="$PROJECT_DIR$/Collection和Map/Collection和Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Net/Net.iml" filepath="$PROJECT_DIR$/Net/Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://D:/code/各类资源文件/代码/JVMDemo/chapter13/chapter13.iml" filepath="D:/code/各类资源文件/代码/JVMDemo/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基本语法/java基本语法.iml" filepath="$PROJECT_DIR$/java基本语法/java基本语法.iml" />
+      <module fileurl="file://D:/code/JavaSE复习/synchronized/synchronized.iml" filepath="D:/code/JavaSE复习/synchronized/synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用类/常用类.iml" filepath="$PROJECT_DIR$/常用类/常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面向对象/面向对象.iml" filepath="$PROJECT_DIR$/面向对象/面向对象.iml" />
+    </modules>
+  </component>
+</project>
